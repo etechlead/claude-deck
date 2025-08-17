@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Stream Deck files
+*.sdPlugin/bin
+*.sdPlugin/logs
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# IDEs
+.vscode/
