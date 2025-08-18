@@ -4,7 +4,7 @@
 
 Claude Deck is a Stream Deck plugin that provides visual feedback for your Claude Code development sessions. It automatically tracks when you're working with Claude and displays the status on your Stream Deck keys, giving you an at-a-glance view of your AI-assisted development workflow.
 
-![Claude Deck Demo](https://via.placeholder.com/600x300?text=Claude+Deck+Demo)
+https://github.com/user-attachments/assets/a295d791-a16b-454b-bdf7-83aa4500e941
 
 ## ✨ Features
 
